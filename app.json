@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "erp-page-1",
+    "slug": "erp-page-1"
+  }
+}
